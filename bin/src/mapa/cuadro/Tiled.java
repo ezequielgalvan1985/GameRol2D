@@ -16,7 +16,6 @@ public abstract class Tiled {
 
 	//coleccion de cuadros
 	public static final Tiled PASTO = new TiledPasto(Sprite.PASTO);
-	public static final Tiled VACIO = new TiledPasto(Sprite.VACIO);
 
 	public void mostrar(int x, int y, Pantalla pantalla) {
 		

@@ -3,17 +3,13 @@ package mapa.cuadro;
 import graficos.Pantalla;
 import graficos.Sprite;
 
-public class TiledPasto extends Tiled {
-    private int x;
-    private int y;
-    public Sprite sprite;
+public class TiledVacio extends Tiled {
 
-    public TiledPasto(Sprite sprite){
+
+    public TiledVacio(Sprite sprite) {
         super(sprite);
     }
-
     public void mostrar(int x, int y, Pantalla pantalla){
         pantalla.mostrar(x,y,this);
     }
-
 }

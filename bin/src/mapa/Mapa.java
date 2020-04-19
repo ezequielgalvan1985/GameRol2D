@@ -1,7 +1,6 @@
 package mapa;
 
 import graficos.Pantalla;
-import mapa.cuadro.Tiled;
 
 public abstract class Mapa {
 	protected int ancho;
@@ -29,22 +28,10 @@ public abstract class Mapa {
 	}
 	
 	public void mostrar(int compX, int compY, Pantalla pantalla) {
-		int oeste = compX>>5;
-		int este = (compX + pantalla.getAncho())>>5;
+		int oeste = compX/32;
+		int este = (compX + pantalla.getAncho())/32;
 
 		int norte =compY/32;
-		int sur =  (compY + pantalla.getAlto())>>5;
-	}
-
-	public Tiled getTiled(final int x, final int y){
-
-		switch (cuadros[x+y*ancho]){
-			case 0:
-				return Tiled.PASTO;
-
-			default:
-				return null;
-		}
-
+		int sur =  (compY + pantalla.getAlto())/32;
 	}
 }

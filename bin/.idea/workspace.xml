@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51c68787-6590-409c-93f8-e8b5f6e6eff2" name="Default Changelist" comment="Clase 22">
+    <list default="true" id="51c68787-6590-409c-93f8-e8b5f6e6eff2" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/mapa/MapaGenerador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mapa/cuadro/TiledVacio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GameRol.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GameRol.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/control/Teclado.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/control/Teclado.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/graficos/HojaSprites.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/graficos/HojaSprites.class" afterDir="false" />
@@ -18,19 +13,11 @@
       <change beforePath="$PROJECT_DIR$/bin/juego/Juego.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/juego/Juego.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/mapa/Mapa.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/mapa/Mapa.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/mapa/cuadro/Tiled.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/mapa/cuadro/Tiled.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapa.tmx" beforeDir="false" afterPath="$PROJECT_DIR$/mapa.tmx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapa2.png" beforeDir="false" afterPath="$PROJECT_DIR$/mapa2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapa2.tmx" beforeDir="false" afterPath="$PROJECT_DIR$/mapa2.tmx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursos/texturas/mapa2.png" beforeDir="false" afterPath="$PROJECT_DIR$/recursos/texturas/mapa2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/control/Teclado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/control/Teclado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graficos/HojaSprites.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graficos/HojaSprites.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/graficos/Pantalla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graficos/Pantalla.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/graficos/Sprite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graficos/Sprite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/juego/Juego.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juego/Juego.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/mapa/Mapa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mapa/Mapa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/mapa/cuadro/Tiled.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mapa/cuadro/Tiled.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/mapa/cuadro/TiledPasto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mapa/cuadro/TiledPasto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tilesetpok.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/tilesetpok.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,8 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TiledPasto" />
-    <MESSAGE value="Clase 22" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clase 22" />
+    <option name="LAST_COMMIT_MESSAGE" value="TiledPasto" />
   </component>
   <component name="WindowStateProjectService">
     <state x="71" y="27" width="996" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587219808900">
@@ -139,10 +125,9 @@
       <screen x="0" y="0" width="2732" height="737" />
     </state>
     <state x="415" y="156" width="529" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2732.737@0.0.2732.737" timestamp="1587218115870" />
-    <state x="142" y="0" width="479" height="734" key="CommitChangelistDialog2" timestamp="1587313515930">
-      <screen x="0" y="0" width="1366" height="737" />
+    <state x="284" y="0" width="792" height="734" key="CommitChangelistDialog2" timestamp="1587218275874">
+      <screen x="0" y="0" width="2732" height="737" />
     </state>
-    <state x="142" y="0" width="479" height="734" key="CommitChangelistDialog2/0.0.1366.737/1366.0.1366.768@0.0.1366.737" timestamp="1587313515930" />
     <state x="284" y="0" width="792" height="734" key="CommitChangelistDialog2/0.0.2732.737@0.0.2732.737" timestamp="1587218275874" />
     <state x="193" y="120" width="519" height="501" key="EnvironmentVariablesDialog" timestamp="1587219803194">
       <screen x="0" y="0" width="1366" height="737" />
@@ -152,25 +137,25 @@
       <screen x="0" y="0" width="1366" height="737" />
     </state>
     <state x="239" y="130" width="428" height="481" key="FileChooserDialogImpl/0.0.1366.737/1366.0.1366.768@0.0.1366.737" timestamp="1587250549292" />
-    <state width="1316" height="171" key="GridCell.Tab.0.bottom" timestamp="1587313516033">
+    <state width="1316" height="173" key="GridCell.Tab.0.bottom" timestamp="1587226071650">
       <screen x="0" y="0" width="1366" height="737" />
     </state>
-    <state width="1316" height="171" key="GridCell.Tab.0.bottom/0.0.1366.737/1366.0.1366.768@0.0.1366.737" timestamp="1587313516033" />
+    <state width="1316" height="173" key="GridCell.Tab.0.bottom/0.0.1366.737/1366.0.1366.768@0.0.1366.737" timestamp="1587226071650" />
     <state width="1316" height="173" key="GridCell.Tab.0.bottom/0.0.2732.737@0.0.2732.737" timestamp="1587218589862" />
-    <state width="1316" height="171" key="GridCell.Tab.0.center" timestamp="1587313516032">
+    <state width="1316" height="173" key="GridCell.Tab.0.center" timestamp="1587226071650">
       <screen x="0" y="0" width="1366" height="737" />
     </state>
-    <state width="1316" height="171" key="GridCell.Tab.0.center/0.0.1366.737/1366.0.1366.768@0.0.1366.737" timestamp="1587313516032" />
+    <state width="1316" height="173" key="GridCell.Tab.0.center/0.0.1366.737/1366.0.1366.768@0.0.1366.737" timestamp="1587226071650" />
     <state width="1316" height="173" key="GridCell.Tab.0.center/0.0.2732.737@0.0.2732.737" timestamp="1587218589861" />
-    <state width="1316" height="171" key="GridCell.Tab.0.left" timestamp="1587313516032">
+    <state width="1316" height="173" key="GridCell.Tab.0.left" timestamp="1587226071650">
       <screen x="0" y="0" width="1366" height="737" />
     </state>
-    <state width="1316" height="171" key="GridCell.Tab.0.left/0.0.1366.737/1366.0.1366.768@0.0.1366.737" timestamp="1587313516032" />
+    <state width="1316" height="173" key="GridCell.Tab.0.left/0.0.1366.737/1366.0.1366.768@0.0.1366.737" timestamp="1587226071650" />
     <state width="1316" height="173" key="GridCell.Tab.0.left/0.0.2732.737@0.0.2732.737" timestamp="1587218589861" />
-    <state width="1316" height="171" key="GridCell.Tab.0.right" timestamp="1587313516032">
+    <state width="1316" height="173" key="GridCell.Tab.0.right" timestamp="1587226071650">
       <screen x="0" y="0" width="1366" height="737" />
     </state>
-    <state width="1316" height="171" key="GridCell.Tab.0.right/0.0.1366.737/1366.0.1366.768@0.0.1366.737" timestamp="1587313516032" />
+    <state width="1316" height="173" key="GridCell.Tab.0.right/0.0.1366.737/1366.0.1366.768@0.0.1366.737" timestamp="1587226071650" />
     <state width="1316" height="173" key="GridCell.Tab.0.right/0.0.2732.737@0.0.2732.737" timestamp="1587218589862" />
     <state width="1316" height="216" key="GridCell.Tab.1.bottom" timestamp="1587226068671">
       <screen x="0" y="0" width="1366" height="737" />
@@ -193,10 +178,6 @@
     </state>
     <state x="83" y="0" width="904" height="734" key="SettingsEditor/0.0.1366.737/1366.0.1366.768@0.0.1366.737" timestamp="1587309455877" />
     <state x="166" y="0" width="1028" height="734" key="SettingsEditor/0.0.2732.737@0.0.2732.737" timestamp="1587218569981" />
-    <state x="278" y="105" width="804" height="526" key="Vcs.Push.Dialog.v2" timestamp="1587313547125">
-      <screen x="0" y="0" width="1366" height="737" />
-    </state>
-    <state x="278" y="105" width="804" height="526" key="Vcs.Push.Dialog.v2/0.0.1366.737/1366.0.1366.768@0.0.1366.737" timestamp="1587313547125" />
     <state x="338" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1587306463207">
       <screen x="0" y="0" width="1366" height="737" />
     </state>
@@ -206,10 +187,6 @@
       <screen x="0" y="0" width="1366" height="737" />
     </state>
     <state x="0" y="0" width="1360" height="734" key="new project wizard/0.0.1366.737/1366.0.1366.768@0.0.1366.737" timestamp="1587250874736" />
-    <state x="428" y="0" width="504" height="734" key="refactoring.ChangeSignatureDialog" timestamp="1587313109771">
-      <screen x="0" y="0" width="1366" height="737" />
-    </state>
-    <state x="428" y="0" width="504" height="734" key="refactoring.ChangeSignatureDialog/0.0.1366.737/1366.0.1366.768@0.0.1366.737" timestamp="1587313109771" />
     <state x="408" y="281" width="544" height="173" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1587309546556">
       <screen x="0" y="0" width="1366" height="737" />
     </state>
